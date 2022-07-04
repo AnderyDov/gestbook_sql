@@ -1,0 +1,22 @@
+.list {
+  width: 70%;
+  padding: 30px;
+}
+ul {
+  padding: 20px;
+}
+li {
+  list-style: none;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+
+span {
+  font-style: italic;
+}
+.text {
+  text-align: start;
+  font-weight: bold;
+  text-indent: 30px;
+  margin-top: 10px;
+}
